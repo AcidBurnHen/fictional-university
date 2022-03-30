@@ -1,0 +1,605 @@
+[12-Feb-2020 08:25:23 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[12-Feb-2020 08:25:23 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[12-Feb-2020 08:25:23 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[12-Feb-2020 08:25:23 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[12-Feb-2020 08:25:24 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 6
+[12-Feb-2020 08:25:24 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 6
+[12-Feb-2020 08:41:22 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\index.php on line 74
+[12-Feb-2020 08:42:03 UTC] PHP Warning:  Use of undefined constant images - assumed 'images' (this will throw an Error in a future version of PHP) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\index.php on line 74
+[12-Feb-2020 08:42:03 UTC] PHP Stack trace:
+[12-Feb-2020 08:42:03 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[12-Feb-2020 08:42:03 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[12-Feb-2020 08:42:03 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[12-Feb-2020 08:42:03 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:98
+[12-Feb-2020 08:42:03 UTC] PHP Warning:  Use of undefined constant bus - assumed 'bus' (this will throw an Error in a future version of PHP) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\index.php on line 74
+[12-Feb-2020 08:42:03 UTC] PHP Stack trace:
+[12-Feb-2020 08:42:03 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[12-Feb-2020 08:42:03 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[12-Feb-2020 08:42:03 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[12-Feb-2020 08:42:03 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:98
+[12-Feb-2020 08:42:03 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\index.php on line 74
+[12-Feb-2020 08:42:03 UTC] PHP Stack trace:
+[12-Feb-2020 08:42:03 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[12-Feb-2020 08:42:03 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[12-Feb-2020 08:42:03 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[12-Feb-2020 08:42:03 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:98
+[12-Feb-2020 08:42:03 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\index.php on line 74
+[12-Feb-2020 08:42:03 UTC] PHP Stack trace:
+[12-Feb-2020 08:42:03 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[12-Feb-2020 08:42:03 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[12-Feb-2020 08:42:03 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[12-Feb-2020 08:42:03 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:98
+[12-Feb-2020 08:42:03 UTC] PHP Warning:  Division by zero in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\index.php on line 74
+[12-Feb-2020 08:42:03 UTC] PHP Stack trace:
+[12-Feb-2020 08:42:03 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[12-Feb-2020 08:42:03 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[12-Feb-2020 08:42:03 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[12-Feb-2020 08:42:03 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:98
+[12-Feb-2020 08:42:03 UTC] PHP Warning:  Use of undefined constant jpg - assumed 'jpg' (this will throw an Error in a future version of PHP) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\index.php on line 74
+[12-Feb-2020 08:42:03 UTC] PHP Stack trace:
+[12-Feb-2020 08:42:03 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[12-Feb-2020 08:42:03 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[12-Feb-2020 08:42:03 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[12-Feb-2020 08:42:03 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:98
+[12-Feb-2020 08:50:54 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-block-type-registry.php:166
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php(2872): WP_Block_Type_Registry::get_instance()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(288): wp_enqueue_registered_block_scripts_and_styles('')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php(2856): do_action('enqueue_block_a...')
+#5 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(288): wp_common_block_scripts_and_styles('')
+#6 C:\U in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-block-type-registry.php on line 166
+[12-Feb-2020 08:55:11 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-block-type-registry.php:166
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php(2872): WP_Block_Type_Registry::get_instance()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(288): wp_enqueue_registered_block_scripts_and_styles('')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php(2856): do_action('enqueue_block_a...')
+#5 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(288): wp_common_block_scripts_and_styles('')
+#6 C:\U in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-block-type-registry.php on line 166
+[12-Feb-2020 10:18:15 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page.php on line 35
+[12-Feb-2020 10:22:56 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page.php on line 38
+[12-Feb-2020 10:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_premalink() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page.php:31
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php(98): include()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php(17): require('C:\\Users\\Medo\\D...')
+#3 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page.php on line 31
+[12-Feb-2020 10:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gety_the_ID() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page.php:32
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php(98): include()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php(17): require('C:\\Users\\Medo\\D...')
+#3 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page.php on line 32
+[12-Feb-2020 10:34:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page.php on line 32
+[23-Feb-2020 10:21:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=4800 in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php on line 2030
+[23-Feb-2020 10:21:45 UTC] PHP Stack trace:
+[23-Feb-2020 10:21:45 UTC] PHP   1. {main}() C:\Users\Medo\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Feb-2020 10:21:45 UTC] PHP   2. include() C:\Users\Medo\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Feb-2020 10:21:45 UTC] PHP   3. include() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Feb-2020 10:21:45 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Feb-2020 10:21:45 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Feb-2020 10:21:45 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Feb-2020 10:21:45 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Feb-2020 10:21:45 UTC] PHP   8. require() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Feb-2020 10:21:45 UTC] PHP   9. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:523
+[23-Feb-2020 10:21:45 UTC] PHP  10. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:478
+[23-Feb-2020 10:21:45 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP  12. wp_widgets_init() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP  13. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\widgets.php:1765
+[23-Feb-2020 10:21:45 UTC] PHP  14. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:478
+[23-Feb-2020 10:21:45 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP  16. WP_Widget_Factory->_register_widgets() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP  17. WP_Widget_Text->_register() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-widget-factory.php:112
+[23-Feb-2020 10:21:45 UTC] PHP  18. WP_Widget_Text->_register_one() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-widget.php:260
+[23-Feb-2020 10:21:45 UTC] PHP  19. wp_add_inline_script() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\widgets\class-wp-widget-text.php:58
+[23-Feb-2020 10:21:45 UTC] PHP  20. wp_scripts() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\functions.wp-scripts.php:128
+[23-Feb-2020 10:21:45 UTC] PHP  21. WP_Scripts->__construct() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\functions.wp-scripts.php:23
+[23-Feb-2020 10:21:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=5968 in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php on line 2030
+[23-Feb-2020 10:21:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=980 in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php on line 2030
+[23-Feb-2020 10:21:45 UTC] PHP  22. WP_Scripts->init() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class.wp-scripts.php:142
+[23-Feb-2020 10:21:45 UTC] PHP Stack trace:
+[23-Feb-2020 10:21:45 UTC] PHP Stack trace:
+[23-Feb-2020 10:21:45 UTC] PHP  23. do_action_ref_array() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class.wp-scripts.php:167
+[23-Feb-2020 10:21:45 UTC] PHP   1. {main}() C:\Users\Medo\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Feb-2020 10:21:45 UTC] PHP   1. {main}() C:\Users\Medo\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Feb-2020 10:21:45 UTC] PHP  24. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:544
+[23-Feb-2020 10:21:45 UTC] PHP   2. include() C:\Users\Medo\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Feb-2020 10:21:45 UTC] PHP   2. include() C:\Users\Medo\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Feb-2020 10:21:45 UTC] PHP  25. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP   3. include() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Feb-2020 10:21:45 UTC] PHP   3. include() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Feb-2020 10:21:45 UTC] PHP  26. wp_default_packages() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Feb-2020 10:21:45 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Feb-2020 10:21:45 UTC] PHP  27. wp_register_tinymce_scripts() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:896
+[23-Feb-2020 10:21:45 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Feb-2020 10:21:45 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Feb-2020 10:21:45 UTC] PHP  28. script_concat_settings() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:49
+[23-Feb-2020 10:21:45 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Feb-2020 10:21:45 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Feb-2020 10:21:45 UTC] PHP  29. get_site_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:2812
+[23-Feb-2020 10:21:45 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Feb-2020 10:21:45 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Feb-2020 10:21:45 UTC] PHP  30. get_network_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:1154
+[23-Feb-2020 10:21:45 UTC] PHP   8. require() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Feb-2020 10:21:45 UTC] PHP   8. require() phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Feb-2020 10:21:45 UTC] PHP  31. get_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:1289
+[23-Feb-2020 10:21:45 UTC] PHP   9. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:523
+[23-Feb-2020 10:21:45 UTC] PHP   9. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:523
+[23-Feb-2020 10:21:45 UTC] PHP  32. wpdb->get_row() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:100
+[23-Feb-2020 10:21:45 UTC] PHP  10. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:478
+[23-Feb-2020 10:21:45 UTC] PHP  10. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:478
+[23-Feb-2020 10:21:45 UTC] PHP  33. wpdb->query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:2569
+[23-Feb-2020 10:21:45 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP  34. wpdb->_do_query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:1918
+[23-Feb-2020 10:21:45 UTC] PHP  12. wp_widgets_init() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP  12. wp_widgets_init() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP  35. mysqli_query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:2030
+[23-Feb-2020 10:21:45 UTC] PHP  13. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\widgets.php:1765
+[23-Feb-2020 10:21:45 UTC] PHP  13. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\widgets.php:1765
+[23-Feb-2020 10:21:45 UTC] PHP  14. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:478
+[23-Feb-2020 10:21:45 UTC] PHP  14. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:478
+[23-Feb-2020 10:21:45 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP  16. WP_Widget_Factory->_register_widgets() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP  16. WP_Widget_Factory->_register_widgets() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP  17. WP_Widget_Text->_register() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-widget-factory.php:112
+[23-Feb-2020 10:21:45 UTC] PHP  17. WP_Widget_Text->_register() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-widget-factory.php:112
+[23-Feb-2020 10:21:45 UTC] PHP  18. WP_Widget_Text->_register_one() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-widget.php:260
+[23-Feb-2020 10:21:45 UTC] PHP  18. WP_Widget_Text->_register_one() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-widget.php:260
+[23-Feb-2020 10:21:45 UTC] PHP  19. wp_add_inline_script() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\widgets\class-wp-widget-text.php:58
+[23-Feb-2020 10:21:45 UTC] PHP  19. wp_add_inline_script() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\widgets\class-wp-widget-text.php:58
+[23-Feb-2020 10:21:45 UTC] PHP  20. wp_scripts() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\functions.wp-scripts.php:128
+[23-Feb-2020 10:21:45 UTC] PHP  20. wp_scripts() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\functions.wp-scripts.php:128
+[23-Feb-2020 10:21:45 UTC] PHP  21. WP_Scripts->__construct() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\functions.wp-scripts.php:23
+[23-Feb-2020 10:21:45 UTC] PHP  21. WP_Scripts->__construct() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\functions.wp-scripts.php:23
+[23-Feb-2020 10:21:45 UTC] PHP  22. WP_Scripts->init() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class.wp-scripts.php:142
+[23-Feb-2020 10:21:45 UTC] PHP  22. WP_Scripts->init() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class.wp-scripts.php:142
+[23-Feb-2020 10:21:45 UTC] PHP  23. do_action_ref_array() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class.wp-scripts.php:167
+[23-Feb-2020 10:21:45 UTC] PHP  23. do_action_ref_array() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class.wp-scripts.php:167
+[23-Feb-2020 10:21:45 UTC] PHP  24. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:544
+[23-Feb-2020 10:21:45 UTC] PHP  24. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:544
+[23-Feb-2020 10:21:45 UTC] PHP  25. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP  25. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:312
+[23-Feb-2020 10:21:45 UTC] PHP  26. wp_default_packages() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP  26. wp_default_packages() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:288
+[23-Feb-2020 10:21:45 UTC] PHP  27. wp_register_tinymce_scripts() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:896
+[23-Feb-2020 10:21:45 UTC] PHP  27. wp_register_tinymce_scripts() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:896
+[23-Feb-2020 10:21:45 UTC] PHP  28. script_concat_settings() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:49
+[23-Feb-2020 10:21:45 UTC] PHP  28. script_concat_settings() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:49
+[23-Feb-2020 10:21:45 UTC] PHP  29. get_site_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:2812
+[23-Feb-2020 10:21:45 UTC] PHP  29. get_site_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\script-loader.php:2812
+[23-Feb-2020 10:21:45 UTC] PHP  30. get_network_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:1154
+[23-Feb-2020 10:21:45 UTC] PHP  30. get_network_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:1154
+[23-Feb-2020 10:21:45 UTC] PHP  31. get_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:1289
+[23-Feb-2020 10:21:45 UTC] PHP  31. get_option() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:1289
+[23-Feb-2020 10:21:45 UTC] PHP  32. wpdb->get_row() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:100
+[23-Feb-2020 10:21:45 UTC] PHP  32. wpdb->get_row() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\option.php:100
+[23-Feb-2020 10:21:45 UTC] PHP  33. wpdb->query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:2569
+[23-Feb-2020 10:21:45 UTC] PHP  33. wpdb->query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:2569
+[23-Feb-2020 10:21:45 UTC] PHP  34. wpdb->_do_query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:1918
+[23-Feb-2020 10:21:45 UTC] PHP  34. wpdb->_do_query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:1918
+[23-Feb-2020 10:21:45 UTC] PHP  35. mysqli_query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:2030
+[23-Feb-2020 10:21:45 UTC] PHP  35. mysqli_query() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:2030
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  Failed loading Zend extension 'php_opcache.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_opcache.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_opcache.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  Failed loading Zend extension 'php_opcache.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_opcache.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_opcache.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  Failed loading Zend extension 'php_xdebug.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_xdebug.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_xdebug.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  Failed loading Zend extension 'php_xdebug.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_xdebug.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_xdebug.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_curl.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_curl.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gettext.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_gettext.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_gettext.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_curl.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_curl.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_openssl.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_openssl.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gettext.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_gettext.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_gettext.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_exif.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_exif.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_exif.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_openssl.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_openssl.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd2.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_gd2.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_gd2.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ftp.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_ftp.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_ftp.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_exif.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_exif.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_exif.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imap.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_imap.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_imap.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_bz2.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_bz2.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_mbstring.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_mbstring.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd2.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_gd2.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_gd2.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sodium.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_sodium.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_sodium.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ftp.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_ftp.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_ftp.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_tidy.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_tidy.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_tidy.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imap.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_imap.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_imap.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xsl.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_xsl.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_xsl.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_bz2.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_bz2.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xmlrpc.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_xmlrpc.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_xmlrpc.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_soap.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_soap.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_soap.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_mbstring.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_mbstring.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_mysqli.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_mysqli.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sodium.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_sodium.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_sodium.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_tidy.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_tidy.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_tidy.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xsl.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_xsl.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_xsl.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_pdo_mysql.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_pdo_mysql.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xmlrpc.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_xmlrpc.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_xmlrpc.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_soap.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_soap.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_soap.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_mysqli.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_mysqli.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_pdo_mysql.dll (The specified module could not be found.), C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.3.5+3/bin/win32/ext\php_php_pdo_mysql.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Oct-2021 22:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php:1668
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php(632): wpdb->db_connect()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\load.php(425): wpdb->__construct('root', 'root', 'local', 'localhost')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php(116): require_wp_db()
+#3 phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1271): require('C:\\Users\\Medo\\D...')
+#4 phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1192): WP_CLI\Runner->load_wordpress()
+#5 phar://C:/Users/Medo/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/B in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\wp-db.php on line 1668
+[10-Oct-2021 22:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\formatting.php on line 4316
+[10-Oct-2021 22:15:01 UTC] PHP Parse error:  syntax error, unexpected ''Header Menu Location'' (T_CONSTANT_ENCAPSED_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[10-Oct-2021 22:15:15 UTC] PHP Parse error:  syntax error, unexpected ''Header Menu Location'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[10-Oct-2021 22:15:19 UTC] PHP Parse error:  syntax error, unexpected ''Header Menu Location'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[10-Oct-2021 22:46:36 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\mu-plugins\unversityposttypes.php:3) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 18
+[10-Oct-2021 22:46:36 UTC] PHP Stack trace:
+[10-Oct-2021 22:46:36 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin-ajax.php:0
+[10-Oct-2021 22:46:36 UTC] PHP   2. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin-ajax.php:22
+[10-Oct-2021 22:46:36 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php:37
+[10-Oct-2021 22:46:36 UTC] PHP   4. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php:77
+[10-Oct-2021 22:46:38 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\mu-plugins\unversityposttypes.php:3) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 18
+[10-Oct-2021 22:46:38 UTC] PHP Stack trace:
+[10-Oct-2021 22:46:38 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\edit.php:0
+[10-Oct-2021 22:46:38 UTC] PHP   2. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\edit.php:10
+[10-Oct-2021 22:46:38 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin.php:34
+[10-Oct-2021 22:46:38 UTC] PHP   4. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php:37
+[10-Oct-2021 22:46:38 UTC] PHP   5. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php:77
+[10-Oct-2021 23:09:10 UTC] PHP Parse error:  syntax error, unexpected ''has_archive'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\mu-plugins\unversityposttypes.php on line 6
+[14-Oct-2021 01:11:19 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Oct-2021 20:51:53 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page-past-events.php on line 19
+[17-Oct-2021 21:16:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-event.php on line 29
+[17-Oct-2021 21:19:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-event.php on line 30
+[17-Oct-2021 21:19:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-event.php on line 38
+[17-Oct-2021 21:31:55 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 39
+[17-Oct-2021 21:34:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 42
+[17-Oct-2021 21:36:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 49
+[17-Oct-2021 22:23:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php:51
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php(98): include()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php(17): require('C:\\Users\\Medo\\D...')
+#3 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 51
+[17-Oct-2021 22:23:54 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 51
+[17-Oct-2021 22:24:16 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 51
+[17-Oct-2021 22:24:18 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 51
+[17-Oct-2021 22:24:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php:51
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php(98): include()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php(17): require('C:\\Users\\Medo\\D...')
+#3 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 51
+[17-Oct-2021 22:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php:51
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php(98): include()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php(17): require('C:\\Users\\Medo\\D...')
+#3 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\single-program.php on line 51
+[23-Oct-2021 09:33:13 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 40
+[29-Oct-2021 15:40:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Querry' not found in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:13
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(1140): universitySearchResults(Object(WP_REST_Request))
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api.php(370): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 C:\Users\Medo in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 13
+[29-Oct-2021 15:42:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Querry' not found in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:13
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(1140): universitySearchResults(Object(WP_REST_Request))
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api.php(370): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 C:\Users\Medo in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 13
+[29-Oct-2021 15:42:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Querry' not found in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:13
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(1140): universitySearchResults(Object(WP_REST_Request))
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/university/v1/...', Array, NULL)
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api.php(370): WP_REST_Server->serve_request('/university/v1/...')
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 C:\Users\Medo in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 13
+[29-Oct-2021 15:56:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 15
+[29-Oct-2021 16:09:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 68
+[29-Oct-2021 16:10:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 70
+[29-Oct-2021 19:52:34 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 86
+[29-Oct-2021 19:53:12 UTC] PHP Warning:  Use of undefined constant relation - assumed 'relation' (this will throw an Error in a future version of PHP) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 83
+[29-Oct-2021 19:53:12 UTC] PHP Stack trace:
+[29-Oct-2021 19:53:12 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[29-Oct-2021 19:53:12 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[29-Oct-2021 19:53:12 UTC] PHP   3. wp() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:16
+[29-Oct-2021 19:53:12 UTC] PHP   4. WP->main() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\functions.php:1291
+[29-Oct-2021 19:53:12 UTC] PHP   5. WP->parse_request() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp.php:750
+[29-Oct-2021 19:53:12 UTC] PHP   6. do_action_ref_array() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp.php:388
+[29-Oct-2021 19:53:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:518
+[29-Oct-2021 19:53:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[29-Oct-2021 19:53:12 UTC] PHP   9. rest_api_loaded() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:303
+[29-Oct-2021 19:53:12 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api.php:370
+[29-Oct-2021 19:53:12 UTC] PHP  11. WP_REST_Server->dispatch() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php:414
+[29-Oct-2021 19:53:12 UTC] PHP  12. WP_REST_Server->respond_to_request() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php:987
+[29-Oct-2021 19:53:12 UTC] PHP  13. universitySearchResults() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php:1140
+[29-Oct-2021 19:53:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php:83) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1667
+[29-Oct-2021 19:53:12 UTC] PHP Stack trace:
+[29-Oct-2021 19:53:12 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[29-Oct-2021 19:53:12 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[29-Oct-2021 19:53:12 UTC] PHP   3. wp() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:16
+[29-Oct-2021 19:53:12 UTC] PHP   4. WP->main() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\functions.php:1291
+[29-Oct-2021 19:53:12 UTC] PHP   5. WP->parse_request() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp.php:750
+[29-Oct-2021 19:53:12 UTC] PHP   6. do_action_ref_array() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp.php:388
+[29-Oct-2021 19:53:12 UTC] PHP   7. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:518
+[29-Oct-2021 19:53:12 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[29-Oct-2021 19:53:12 UTC] PHP   9. rest_api_loaded() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:303
+[29-Oct-2021 19:53:12 UTC] PHP  10. WP_REST_Server->serve_request() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api.php:370
+[29-Oct-2021 19:53:12 UTC] PHP  11. WP_REST_Server->send_headers() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php:446
+[29-Oct-2021 19:53:12 UTC] PHP  12. WP_REST_Server->send_header() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php:1679
+[29-Oct-2021 19:53:12 UTC] PHP  13. header() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\rest-api\class-wp-rest-server.php:1667
+[30-Oct-2021 06:47:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\search.php on line 21
+[30-Oct-2021 08:04:03 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 98
+[30-Oct-2021 08:12:17 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 122
+[30-Oct-2021 08:19:55 UTC] PHP Parse error:  syntax error, unexpected ''ourLoginTitle'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 137
+[30-Oct-2021 15:28:53 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 142
+[30-Oct-2021 15:29:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 142
+[30-Oct-2021 15:30:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\functions.php on line 145
+[31-Oct-2021 21:39:41 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\like-route.php on line 9
+[31-Oct-2021 21:41:42 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\like-route.php on line 9
+[31-Oct-2021 22:36:02 UTC] PHP Parse error:  syntax error, unexpected ':' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\like-route.php on line 23
+[31-Oct-2021 22:48:25 UTC] PHP Parse error:  syntax error, unexpected 'wp_insert_post' (T_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\like-route.php on line 20
+[01-Nov-2021 15:05:30 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\inc\like-route.php on line 53
+[01-Nov-2021 20:52:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 11 and at least 2 expected in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:114
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php(11): add_filter()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php(409): include_once('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php(92): require_once('C:\\Users\\Medo\\D...')
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php(50): require_once('C:\\Users\\Medo\\D...')
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Medo\\D...')
+#5 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php on line 114
+[01-Nov-2021 20:57:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 19
+[01-Nov-2021 21:30:24 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 19
+[01-Nov-2021 21:53:59 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 31
+[01-Nov-2021 21:54:00 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 31
+[01-Nov-2021 22:18:32 UTC] PHP Parse error:  syntax error, unexpected 'add_settings_field' (T_STRING), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 28
+[01-Nov-2021 22:19:12 UTC] PHP Parse error:  syntax error, unexpected 'add_settings_field' (T_STRING), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 28
+[01-Nov-2021 22:20:46 UTC] PHP Parse error:  syntax error, unexpected 'add_settings_section' (T_STRING), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 28
+[01-Nov-2021 22:55:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 58
+[01-Nov-2021 22:56:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 58
+[01-Nov-2021 23:07:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 124
+[01-Nov-2021 23:07:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 124
+[01-Nov-2021 23:20:07 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 131
+[01-Nov-2021 23:21:23 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 131
+[01-Nov-2021 23:53:14 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 154
+[05-Nov-2021 09:24:53 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 154
+[05-Nov-2021 09:24:53 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 154
+[05-Nov-2021 09:24:54 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 154
+[05-Nov-2021 09:24:54 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-first-unique-plugin\our-first-unique-plugin.php on line 154
+[05-Nov-2021 09:26:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'languages' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php on line 303
+[05-Nov-2021 09:26:21 UTC] PHP Stack trace:
+[05-Nov-2021 09:26:21 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\index.php:0
+[05-Nov-2021 09:26:21 UTC] PHP   2. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\index.php:10
+[05-Nov-2021 09:26:21 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin.php:34
+[05-Nov-2021 09:26:21 UTC] PHP   4. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php:50
+[05-Nov-2021 09:26:21 UTC] PHP   5. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php:92
+[05-Nov-2021 09:26:21 UTC] PHP   6. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:578
+[05-Nov-2021 09:26:21 UTC] PHP   7. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:470
+[05-Nov-2021 09:26:21 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[05-Nov-2021 09:26:22 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'languages' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php on line 303
+[05-Nov-2021 09:26:22 UTC] PHP Stack trace:
+[05-Nov-2021 09:26:22 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-cron.php:0
+[05-Nov-2021 09:26:22 UTC] PHP   2. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-cron.php:44
+[05-Nov-2021 09:26:22 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php:50
+[05-Nov-2021 09:26:22 UTC] PHP   4. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php:92
+[05-Nov-2021 09:26:22 UTC] PHP   5. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:578
+[05-Nov-2021 09:26:22 UTC] PHP   6. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:470
+[05-Nov-2021 09:26:22 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[05-Nov-2021 09:26:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'languages' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php on line 303
+[05-Nov-2021 09:26:23 UTC] PHP Stack trace:
+[05-Nov-2021 09:26:23 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-login.php:0
+[05-Nov-2021 09:26:23 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-login.php:12
+[05-Nov-2021 09:26:23 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php:50
+[05-Nov-2021 09:26:23 UTC] PHP   4. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php:92
+[05-Nov-2021 09:26:23 UTC] PHP   5. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:578
+[05-Nov-2021 09:26:23 UTC] PHP   6. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:470
+[05-Nov-2021 09:26:23 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[05-Nov-2021 09:26:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'languages' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php on line 303
+[05-Nov-2021 09:26:37 UTC] PHP Stack trace:
+[05-Nov-2021 09:26:37 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[05-Nov-2021 09:26:37 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[05-Nov-2021 09:26:37 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:13
+[05-Nov-2021 09:26:37 UTC] PHP   4. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php:50
+[05-Nov-2021 09:26:37 UTC] PHP   5. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php:92
+[05-Nov-2021 09:26:37 UTC] PHP   6. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:578
+[05-Nov-2021 09:26:37 UTC] PHP   7. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:470
+[05-Nov-2021 09:26:37 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[05-Nov-2021 09:27:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'languages' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php on line 303
+[05-Nov-2021 09:27:32 UTC] PHP Stack trace:
+[05-Nov-2021 09:27:32 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[05-Nov-2021 09:27:32 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[05-Nov-2021 09:27:32 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:13
+[05-Nov-2021 09:27:32 UTC] PHP   4. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php:50
+[05-Nov-2021 09:27:32 UTC] PHP   5. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php:92
+[05-Nov-2021 09:27:32 UTC] PHP   6. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:578
+[05-Nov-2021 09:27:32 UTC] PHP   7. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:470
+[05-Nov-2021 09:27:32 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[05-Nov-2021 09:27:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WordCountAndTimePlugin' does not have a method 'languages' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php on line 303
+[05-Nov-2021 09:27:59 UTC] PHP Stack trace:
+[05-Nov-2021 09:27:59 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-login.php:0
+[05-Nov-2021 09:27:59 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-login.php:12
+[05-Nov-2021 09:27:59 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-load.php:50
+[05-Nov-2021 09:27:59 UTC] PHP   4. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-config.php:92
+[05-Nov-2021 09:27:59 UTC] PHP   5. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-settings.php:578
+[05-Nov-2021 09:27:59 UTC] PHP   6. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:470
+[05-Nov-2021 09:27:59 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[05-Nov-2021 09:58:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'OurWordFilterPlugin' does not have a method 'wordFilterPage' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php on line 303
+[05-Nov-2021 09:58:40 UTC] PHP Stack trace:
+[05-Nov-2021 09:58:40 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin.php:0
+[05-Nov-2021 09:58:40 UTC] PHP   2. do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin.php:259
+[05-Nov-2021 09:58:40 UTC] PHP   3. WP_Hook->do_action() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php:470
+[05-Nov-2021 09:58:40 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php:327
+[05-Nov-2021 10:44:56 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 23
+[05-Nov-2021 10:44:57 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 23
+[05-Nov-2021 10:57:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 27
+[05-Nov-2021 11:44:44 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 21
+[05-Nov-2021 11:53:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_settings_field(), 3 passed in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 65 and at least 4 expected in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\includes\template.php:1631
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php(65): add_settings_field('replacement-tex...', 'Filtered Text', Array)
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): OurWordFilterPlugin->ourSettings('')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin-ajax.php(45): in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\includes\template.php on line 1631
+[05-Nov-2021 11:55:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_settings_field(), 3 passed in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 65 and at least 4 expected in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\includes\template.php:1631
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php(65): add_settings_field('replacement-tex...', 'Filtered Text', Array)
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): OurWordFilterPlugin->ourSettings('')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin-ajax.php(45): in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\includes\template.php on line 1631
+[05-Nov-2021 11:56:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_settings_field(), 3 passed in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 65 and at least 4 expected in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\includes\template.php:1631
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php(65): add_settings_field('replacement-tex...', 'Filtered Text', Array)
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): OurWordFilterPlugin->ourSettings('')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin-ajax.php(45): in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\includes\template.php on line 1631
+[05-Nov-2021 11:56:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_settings_field(), 3 passed in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 65 and at least 4 expected in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\includes\template.php:1631
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php(65): add_settings_field('replacement-tex...', 'Filtered Text', Array)
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): OurWordFilterPlugin->ourSettings('')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\admin.php(175): do_ in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-admin\includes\template.php on line 1631
+[05-Nov-2021 11:57:08 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\our-word-filter-plugin\index.php on line 65
+[05-Nov-2021 22:51:55 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\are-you-paying-attention\index.php on line 15
+[05-Nov-2021 22:51:56 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\are-you-paying-attention\index.php on line 15
+[05-Nov-2021 22:51:56 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\are-you-paying-attention\index.php on line 15
+[05-Nov-2021 22:52:29 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\are-you-paying-attention\index.php on line 20
+[05-Nov-2021 22:52:29 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\are-you-paying-attention\index.php on line 20
+[05-Nov-2021 22:52:29 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\are-you-paying-attention\index.php on line 20
+[09-Nov-2021 18:53:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\generateProfessorHTML.php:9
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php(33): generateProfessorHTML('68')
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-block.php(221): FeaturedProfessor->renderCallback(Array, '', Object(WP_Block))
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\blocks.php(868): WP_Block->render()
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\blocks.php(906): render_block(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): do_blocks('<!-- wp:paragra...')
+#5 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('<!-- wp:paragra... in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\generateProfessorHTML.php on line 9
+[09-Nov-2021 18:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\generateProfessorHTML.php:9
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php(33): generateProfessorHTML('68')
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-block.php(221): FeaturedProfessor->renderCallback(Array, '', Object(WP_Block))
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\blocks.php(868): WP_Block->render()
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\blocks.php(906): render_block(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): do_blocks('<!-- wp:paragra...')
+#5 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('<!-- wp:paragra... in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\generateProfessorHTML.php on line 9
+[09-Nov-2021 18:54:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\generateProfessorHTML.php:9
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php(33): generateProfessorHTML('68')
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-block.php(221): FeaturedProfessor->renderCallback(Array, '', Object(WP_Block))
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\blocks.php(868): WP_Block->render()
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\blocks.php(906): render_block(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): do_blocks('<!-- wp:paragra...')
+#5 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('<!-- wp:paragra... in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\generateProfessorHTML.php on line 9
+[09-Nov-2021 18:54:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\generateProfessorHTML.php:9
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php(33): generateProfessorHTML('68')
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-block.php(221): FeaturedProfessor->renderCallback(Array, '', Object(WP_Block))
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\blocks.php(868): WP_Block->render()
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\blocks.php(906): render_block(Array)
+#4 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\class-wp-hook.php(303): do_blocks('<!-- wp:paragra...')
+#5 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('<!-- wp:paragra... in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\generateProfessorHTML.php on line 9
+[09-Nov-2021 19:36:29 UTC] PHP Parse error:  syntax error, unexpected ':' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 17
+[09-Nov-2021 19:39:43 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 28
+[09-Nov-2021 19:39:49 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 28
+[09-Nov-2021 19:39:56 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 28
+[09-Nov-2021 20:12:18 UTC] PHP Parse error:  syntax error, unexpected ':' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 36
+[09-Nov-2021 20:12:22 UTC] PHP Parse error:  syntax error, unexpected ':' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 36
+[09-Nov-2021 20:12:23 UTC] PHP Parse error:  syntax error, unexpected ':' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 36
+[09-Nov-2021 21:15:51 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 19
+[09-Nov-2021 21:17:48 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 19
+[09-Nov-2021 21:17:51 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\featured-professor.php on line 19
+[09-Nov-2021 21:30:55 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\relatedPostsHTML.php on line 13
+[09-Nov-2021 21:32:56 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\relatedPostsHTML.php on line 13
+[09-Nov-2021 21:34:57 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\relatedPostsHTML.php on line 13
+[09-Nov-2021 21:36:30 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\relatedPostsHTML.php on line 13
+[09-Nov-2021 21:36:33 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\relatedPostsHTML.php on line 13
+[09-Nov-2021 21:36:33 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\featured-professor\inc\relatedPostsHTML.php on line 13
+[09-Nov-2021 22:48:52 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\new-database-table.php on line 17
+[09-Nov-2021 22:48:53 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\new-database-table.php on line 17
+[09-Nov-2021 23:19:11 UTC] PHP Parse error:  syntax error, unexpected '$ourQuery' (T_VARIABLE) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 22
+[09-Nov-2021 23:29:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 33
+[09-Nov-2021 23:29:14 UTC] PHP Stack trace:
+[09-Nov-2021 23:29:14 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[09-Nov-2021 23:29:14 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[09-Nov-2021 23:29:14 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[09-Nov-2021 23:29:14 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:106
+[09-Nov-2021 23:30:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 33
+[09-Nov-2021 23:30:36 UTC] PHP Stack trace:
+[09-Nov-2021 23:30:36 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[09-Nov-2021 23:30:36 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[09-Nov-2021 23:30:36 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[09-Nov-2021 23:30:36 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:106
+[09-Nov-2021 23:31:24 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php:33
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php(17): require('C:\\Users\\Medo\\D...')
+#3 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 33
+[09-Nov-2021 23:32:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 33
+[09-Nov-2021 23:32:07 UTC] PHP Stack trace:
+[09-Nov-2021 23:32:07 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[09-Nov-2021 23:32:07 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[09-Nov-2021 23:32:07 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[09-Nov-2021 23:32:07 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:106
+[09-Nov-2021 23:36:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 33
+[09-Nov-2021 23:36:03 UTC] PHP Stack trace:
+[09-Nov-2021 23:36:03 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[09-Nov-2021 23:36:03 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[09-Nov-2021 23:36:03 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[09-Nov-2021 23:36:03 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:106
+[09-Nov-2021 23:38:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 33
+[09-Nov-2021 23:38:56 UTC] PHP Stack trace:
+[09-Nov-2021 23:38:56 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[09-Nov-2021 23:38:56 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[09-Nov-2021 23:38:56 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[09-Nov-2021 23:38:56 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:106
+[09-Nov-2021 23:39:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\GetPets.php:7
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php(4): GetPets->__construct()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Medo\\D...')
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php(17): require('C:\\Users\\Medo\\D...')
+#4 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\GetPets.php on line 7
+[09-Nov-2021 23:40:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 33
+[09-Nov-2021 23:40:21 UTC] PHP Stack trace:
+[09-Nov-2021 23:40:21 UTC] PHP   1. {main}() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:0
+[09-Nov-2021 23:40:21 UTC] PHP   2. require() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php:17
+[09-Nov-2021 23:40:21 UTC] PHP   3. require_once() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php:19
+[09-Nov-2021 23:40:21 UTC] PHP   4. include() C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php:106
+[09-Nov-2021 23:47:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method GetPets::getArgs() in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\GetPets.php:8
+Stack trace:
+#0 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php(4): GetPets->__construct()
+#1 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Medo\\D...')
+#2 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Medo\\D...')
+#3 C:\Users\Medo\Desktop\Coding\Fictional University\app\public\index.php(17): require('C:\\Users\\Medo\\D...')
+#4 {main}
+  thrown in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\GetPets.php on line 8
+[10-Nov-2021 00:08:04 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\GetPets.php on line 13
+[10-Nov-2021 00:09:49 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\GetPets.php on line 16
+[10-Nov-2021 00:12:57 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) FROM wp_pets' at line 1 for query SELECT COUNT (*) FROM wp_pets  made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/plugins/new-database-table/inc/template-pets.php'), GetPets->__construct
+[10-Nov-2021 00:18:08 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\plugins\new-database-table\inc\template-pets.php on line 49
+[10-Nov-2021 00:59:50 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING) in C:\Users\Medo\Desktop\Coding\Fictional University\app\public\wp-content\themes\fictional-university-theme\page.php on line 55
